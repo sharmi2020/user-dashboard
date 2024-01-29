@@ -1,0 +1,16 @@
+
+.delete{
+    background-color:green;
+    color:white;
+    cursor:pointer;
+}
+
+.next{
+    display:flex;
+    justify-content:center;
+    text-align:center;
+    margin:10px;
+    padding:10px;
+    background-color:blue;
+    color:white;
+}
